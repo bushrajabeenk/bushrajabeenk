@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bushra, an Aspiring Full-stack Web Developer from Bangalore, India.</h1>
+<h1 align="center">Hi there 👋, I'm Bushra, an Aspiring Full-stack Web Developer from Bangalore, India.</h1>
 <h3 align="center">Currently learning MERN stack web development at Masai School, Bangalore, India.</h3>
 
 <h3 align="left">Connect with me:</h3>
