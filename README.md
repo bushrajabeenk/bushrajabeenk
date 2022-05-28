@@ -1,7 +1,5 @@
-### Hi there 👋, I'm Bushra, an Aspiring Full-stack Web Developer from Bangalore, India. 
+### Hi there 👋, I'm Bushra, an aspiring full-stack web developer from Bangalore, India. 
 #### Currently learning MERN stack web development at Masai School, Bangalore, India. 
-![Currently learning MERN stack web development at Masai School, Bangalore, India. ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I enjoy building simple to complex apps using frameworks like React, NodeJS. I'm quite proficient at coding in JavaScript and C++ languages. Also, I love to write themed English poems.
 
 Skills: HTML | CSS | JavaScript | ReactJS | NodeJS | MongoDB | C++  
