@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bushra, an Aspiring Full-stack Web Developer from Bangalore, India.</h1>
+<h1 align="center">Hi there <img height=35px width=35px src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm a 24 year old Aspiring Full Stack Web Developer from Bangalore, India.</h1>
 <h3 align="center">Currently learning MERN stack web development at Masai School, Bangalore, India.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bushrajabeenk&label=Profile%20views&color=0e75b6&style=flat" alt="bushrajabeenk" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
