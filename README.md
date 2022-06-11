@@ -1,6 +1,8 @@
 <h1 align="center">Hi there! <img height=35px width=35px src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm a 24 year old Aspiring Full Stack Web Developer from Bangalore, India.</h1>
 <h3 align="center">Currently learning MERN stack web development at Masai School, Bangalore, India.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bushrajabeenk&label=Profile%20views&color=0e75b6&style=flat" alt="bushrajabeenk" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/k-bushra-jabeen-9a8b95126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/k-bushra-jabeen-9a8b95126" height="30" width="40" /></a>
