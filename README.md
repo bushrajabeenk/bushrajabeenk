@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bushrajabeenk&show_icons=true&locale=en" alt="bushrajabeenk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bushrajabeenk&" alt="bushrajabeenk" /></p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bushrajabeenk)  
