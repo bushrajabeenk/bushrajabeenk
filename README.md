@@ -19,10 +19,10 @@
 
 <h3 align="center">Github Stats:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bushrajabeenk&show_icons=true&locale=en&layout=compact" alt="bushrajabeenk" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bushrajabeenk&show_icons=true&locale=en&layout=compact" alt="bushrajabeenk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bushrajabeenk&show_icons=true&locale=en" alt="bushrajabeenk" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bushrajabeenk&show_icons=true&locale=en" alt="bushrajabeenk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bushrajabeenk&" alt="bushrajabeenk" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bushrajabeenk&" alt="bushrajabeenk" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bushrajabeenk)  
