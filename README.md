@@ -20,7 +20,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bushrajabeenk&show_icons=true&locale=en&layout=compact" alt="bushrajabeenk" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bushrajabeenk&show_icons=true&count_private=true&hide_border=true" alt="bushrajabeenk" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bushrajabeenk&show_icons=true&count_private=true&hide_border=false" alt="bushrajabeenk" /></p>
 
 
 
