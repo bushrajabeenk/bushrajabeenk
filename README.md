@@ -20,7 +20,9 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bushrajabeenk&show_icons=true&locale=en&layout=compact" alt="bushrajabeenk" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bushrajabeenk&show_icons=true&locale=en" alt="bushrajabeenk" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bushrajabeenk&theme=city_light&hide_border=false&include_all_commits=false&count_private=true" alt="bushrajabeenk" /></p>
+
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bushrajabeenk&" alt="bushrajabeenk" /></p>
 
