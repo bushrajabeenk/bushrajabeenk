@@ -22,8 +22,6 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bushrajabeenk&show_icons=true&count_private=true&hide_border=false" alt="bushrajabeenk" /></p>
 
-
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bushrajabeenk&" alt="bushrajabeenk" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bushrajabeenk&" alt="bushrajabeenk" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bushrajabeenk)  
