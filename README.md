@@ -11,7 +11,7 @@
 
 - 📄 Find my resume here [https://docs.google.com/document/d/1VLvY4Ekzm4Tg25w1tSgJ7c-RmTZxZw0z/edit](https://docs.google.com/document/d/1VLvY4Ekzm4Tg25w1tSgJ7c-RmTZxZw0z/edit)
 
-- ⚡ Fun fact about me **: I love to write, but don't like to read books**
+- ⚡ Fun fact about me **: I like writing, but hate reading books**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
