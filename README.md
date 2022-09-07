@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bushjabeen22@gmail.com**
 
-- 📄 Know about my experiences [abc](abc)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1VLvY4Ekzm4Tg25w1tSgJ7c-RmTZxZw0z/edit](https://docs.google.com/document/d/1VLvY4Ekzm4Tg25w1tSgJ7c-RmTZxZw0z/edit)
 
 - ⚡ Fun fact ****
 
