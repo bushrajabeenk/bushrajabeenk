@@ -5,8 +5,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/k-bushra-jabeen-9a8b95126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/k-bushra-jabeen-9a8b95126" height="30" width="40" /></a>
-<a href="https://www.facebook.com/bushra.bushra.31924792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="k bushra jabeen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/k-bushra-jabeen-9a8b95126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/k-bushra-jabeen-9a8b95126" height="30" width="40" />
 <a href="https://medium.com/@bushrajabeenk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bushrajabeen" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/beetish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="beetish" height="30" width="40" /></a>
 </p>
