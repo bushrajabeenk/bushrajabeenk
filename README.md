@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **bushjabeen22@gmail.com**
 
+- 📄 Know about my experiences [abc](abc)
+
 - ⚡ Fun fact ****
 
 <h3 align="center">Connect with me:</h3>
