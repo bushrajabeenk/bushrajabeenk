@@ -9,7 +9,7 @@
 
 - 📄 Know my details at [https://docs.google.com/document/d/1VLvY4Ekzm4Tg25w1tSgJ7c-RmTZxZw0z/edit](https://docs.google.com/document/d/1VLvY4Ekzm4Tg25w1tSgJ7c-RmTZxZw0z/edit)
 
-- ⚡ Fun fact ****
+- ⚡ Fun fact thinking about it
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
