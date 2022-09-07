@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bushjabeen22@gmail.com**
 
-- 📄 Know my details at [https://docs.google.com/document/d/1VLvY4Ekzm4Tg25w1tSgJ7c-RmTZxZw0z/edit](https://docs.google.com/document/d/1VLvY4Ekzm4Tg25w1tSgJ7c-RmTZxZw0z/edit)
+- 📄 Find my resume here [https://docs.google.com/document/d/1VLvY4Ekzm4Tg25w1tSgJ7c-RmTZxZw0z/edit](https://docs.google.com/document/d/1VLvY4Ekzm4Tg25w1tSgJ7c-RmTZxZw0z/edit)
 
 - ⚡ Fun fact **still thinking about it**
 
