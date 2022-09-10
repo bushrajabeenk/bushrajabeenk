@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bushrajabeenk&label=Profile%20views&color=0e75b6&style=flat" alt="bushrajabeenk" /> </p>
 
+- 🌱 I’m currently **undergoing Mock Assessments at Masai School**
+
 - 👨‍💻 All of my projects are available at [https://bushra-portfolio.netlify.app/](https://bushra-portfolio.netlify.app/)
 
 - 📫 How to reach me **bushjabeen22@gmail.com**
