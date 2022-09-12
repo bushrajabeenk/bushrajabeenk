@@ -7,7 +7,7 @@
 
 - 👨‍💻 Some of my projects are available at **https://bushra-jabeen-k.netlify.app/** 
 
-- 📫 Reach me at **bushjabeen22@gmail.com**
+- 📫 Reach out to me at **bushjabeen22@gmail.com**
 
 - 📄 Find my resume here **[https://drive.google.com/file/d/1_tdaMrbsjSgUtSHxx9wHhlbKLkzFq1DB/view?usp=sharing](https://drive.google.com/file/d/1_tdaMrbsjSgUtSHxx9wHhlbKLkzFq1DB/view?usp=sharing)**
 - 📝 Check my articles on **[https://medium.com/@bushrajabeenk](https://medium.com/@bushrajabeenk)**
