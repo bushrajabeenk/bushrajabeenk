@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently **undergoing Mock Assessments at Masai School**
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 Some of my projects are available at **https://bushra-jabeen-k.netlify.app/** 
 
 - 📫 How to reach me **bushjabeen22@gmail.com**
 
-- 📄 Find my resume here [https://docs.google.com/document/d/1VLvY4Ekzm4Tg25w1tSgJ7c-RmTZxZw0z/edit](https://docs.google.com/document/d/1VLvY4Ekzm4Tg25w1tSgJ7c-RmTZxZw0z/edit)
+- 📄 Find my resume here **[https://drive.google.com/file/d/1_tdaMrbsjSgUtSHxx9wHhlbKLkzFq1DB/view?usp=sharing](https://drive.google.com/file/d/1_tdaMrbsjSgUtSHxx9wHhlbKLkzFq1DB/view?usp=sharing)**
 
 
 <h3 align="center">Connect with me:</h3>
