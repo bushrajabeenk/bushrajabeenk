@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently **undergoing Mock Assessments at Masai School**
 
-- 👨‍💻 Some of my projects are available at my **[Portfolio](https://bushra-jabeen-k.netlify.app/)** 
+- 👨‍💻 Some of my projects are available at **[Portfolio](https://bushra-jabeen-k.netlify.app/)** 
 
 - 📫 Reach out to me at my **[Gmail](bushjabeen22@gmail.com)**
 
