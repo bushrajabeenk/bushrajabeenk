@@ -5,12 +5,14 @@
 
 - 🌱 I’m currently **undergoing Mock Assessments at Masai School**
 
-- 👨‍💻 Some of my projects are available at **https://bushra-jabeen-k.netlify.app/** 
+- 👨‍💻 Some of my projects are available at **[Portfolio](https://bushra-jabeen-k.netlify.app/)** 
 
-- 📫 Reach out to me at **bushjabeen22@gmail.com**
+- 📫 Reach out to me at **[My Gmail](bushjabeen22@gmail.com)**
 
-- 📄 Find my resume here **[https://drive.google.com/file/d/1_tdaMrbsjSgUtSHxx9wHhlbKLkzFq1DB/view?usp=sharing](https://drive.google.com/file/d/1_tdaMrbsjSgUtSHxx9wHhlbKLkzFq1DB/view?usp=sharing)**
-- 📝 Check my articles on **[https://medium.com/@bushrajabeenk](https://medium.com/@bushrajabeenk)**
+- 📄 Find my resume here **[Resume](https://drive.google.com/file/d/1_tdaMrbsjSgUtSHxx9wHhlbKLkzFq1DB/view?usp=sharing)**
+- 📝 Check my articles on **[Medium](https://medium.com/@bushrajabeenk)**
+
+
 
 
 <h3 align="center">Connect with me:</h3>
