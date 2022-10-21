@@ -1,5 +1,4 @@
 <h1 align="center">Hi there! <img height=35px width=35px src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, </h1>
-<h3 align="center">Learning MERN stack web development at Masai School, Bangalore, India.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bushrajabeenk&label=Profile%20views&color=0e75b6&style=flat" alt="bushrajabeenk" /> </p>
 
