@@ -2,13 +2,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bushrajabeenk&label=Profile%20views&color=0e75b6&style=flat" alt="bushrajabeenk" /> </p>
 
-- 👨‍💻 Some of my projects are available at **[Portfolio](https://bushra-jabeen-k.netlify.app/)** 
-
-- 📫 Reach out to me at my **[Gmail](bushjabeen22@gmail.com)**
-
-- 📄 Find my **[Resume](https://drive.google.com/file/d/1_tdaMrbsjSgUtSHxx9wHhlbKLkzFq1DB/view?usp=sharing)** here
-
-- 📝 Check my articles on **[Medium](https://medium.com/@bushrajabeenk)**
 
 
 
